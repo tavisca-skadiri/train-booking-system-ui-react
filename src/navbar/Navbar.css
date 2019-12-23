@@ -1,0 +1,14 @@
+.navbar ul{
+    list-style-type: none; 
+    background-color: #6b5d96;
+    padding-right: 20px;
+    padding: 10px;
+    margin: 0;
+  }
+  .navbar li{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    display: inline;
+    padding-left: 20px;
+  }
